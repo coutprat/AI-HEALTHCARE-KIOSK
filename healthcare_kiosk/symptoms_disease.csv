@@ -1,0 +1,321 @@
+symptoms,disease
+headache fever fatigue,flu
+fever cough fatigue,flu
+fever sore_throat body_ache cough fatigue,flu
+body_ache fatigue sore_throat fever cough,flu
+headache cough fever sore_throat,flu
+cough headache sore_throat,flu
+headache sore_throat fever cough,flu
+fever fatigue cough headache,flu
+cough fever headache sore_throat,flu
+fatigue body_ache cough headache fever,flu
+headache sore_throat cough,flu
+sore_throat headache fever,flu
+headache cough fever fatigue body_ache,flu
+headache sore_throat fatigue fever,flu
+headache fatigue body_ache sore_throat fever,flu
+cough fatigue fever,flu
+sore_throat headache body_ache cough fever,flu
+fatigue sore_throat body_ache fever cough,flu
+cough fever sore_throat,flu
+fatigue cough body_ache fever,flu
+joint_pain rash fever,dengue
+fever joint_pain vomiting,dengue
+vomiting headache joint_pain,dengue
+nausea fever vomiting rash,dengue
+rash nausea joint_pain headache,dengue
+vomiting fever headache rash joint_pain,dengue
+headache vomiting nausea fever,dengue
+headache joint_pain nausea rash vomiting,dengue
+fever rash vomiting headache,dengue
+rash fever headache,dengue
+vomiting rash nausea fever,dengue
+fever nausea vomiting,dengue
+joint_pain rash headache nausea,dengue
+joint_pain fever nausea headache,dengue
+rash joint_pain headache fever,dengue
+nausea vomiting rash,dengue
+vomiting nausea headache rash,dengue
+rash joint_pain headache fever,dengue
+rash vomiting fever joint_pain nausea,dengue
+headache rash joint_pain,dengue
+blurred_vision thirst fatigue frequent_urination,diabetes
+weight_loss frequent_urination fatigue thirst,diabetes
+thirst blurred_vision fatigue,diabetes
+weight_loss frequent_urination blurred_vision fatigue thirst,diabetes
+frequent_urination thirst blurred_vision fatigue,diabetes
+thirst weight_loss fatigue,diabetes
+weight_loss frequent_urination fatigue blurred_vision thirst,diabetes
+fatigue weight_loss thirst frequent_urination,diabetes
+frequent_urination blurred_vision fatigue weight_loss thirst,diabetes
+frequent_urination thirst fatigue,diabetes
+fatigue weight_loss thirst frequent_urination blurred_vision,diabetes
+frequent_urination blurred_vision thirst fatigue,diabetes
+frequent_urination weight_loss fatigue thirst,diabetes
+blurred_vision frequent_urination weight_loss thirst fatigue,diabetes
+thirst blurred_vision fatigue,diabetes
+thirst frequent_urination weight_loss blurred_vision fatigue,diabetes
+thirst blurred_vision fatigue frequent_urination,diabetes
+fatigue weight_loss blurred_vision frequent_urination thirst,diabetes
+blurred_vision thirst weight_loss fatigue,diabetes
+fatigue blurred_vision weight_loss,diabetes
+fever fatigue dry_cough,covid19
+fatigue loss_of_smell dry_cough sore_throat,covid19
+loss_of_smell sore_throat breathlessness,covid19
+fatigue fever loss_of_smell breathlessness dry_cough,covid19
+sore_throat fever dry_cough fatigue breathlessness,covid19
+sore_throat fatigue dry_cough loss_of_smell,covid19
+breathlessness sore_throat dry_cough fever,covid19
+dry_cough fatigue sore_throat fever loss_of_smell,covid19
+fever loss_of_smell fatigue sore_throat,covid19
+breathlessness sore_throat loss_of_smell fatigue fever,covid19
+breathlessness loss_of_smell fever dry_cough fatigue,covid19
+breathlessness fatigue fever dry_cough sore_throat,covid19
+loss_of_smell fatigue breathlessness sore_throat fever,covid19
+fever fatigue breathlessness,covid19
+breathlessness fatigue sore_throat loss_of_smell fever,covid19
+loss_of_smell fever sore_throat,covid19
+fever fatigue loss_of_smell,covid19
+fever dry_cough loss_of_smell sore_throat,covid19
+breathlessness sore_throat loss_of_smell,covid19
+fatigue sore_throat dry_cough fever,covid19
+shortness_of_breath sweating nausea chest_pain arm_pain,heart_attack
+shortness_of_breath nausea sweating chest_pain arm_pain,heart_attack
+sweating arm_pain shortness_of_breath,heart_attack
+nausea sweating chest_pain arm_pain,heart_attack
+sweating chest_pain shortness_of_breath arm_pain nausea,heart_attack
+arm_pain shortness_of_breath nausea sweating,heart_attack
+arm_pain sweating shortness_of_breath chest_pain,heart_attack
+arm_pain nausea chest_pain sweating shortness_of_breath,heart_attack
+shortness_of_breath chest_pain nausea arm_pain,heart_attack
+nausea arm_pain chest_pain sweating shortness_of_breath,heart_attack
+shortness_of_breath arm_pain chest_pain nausea,heart_attack
+arm_pain chest_pain sweating nausea,heart_attack
+chest_pain shortness_of_breath sweating arm_pain nausea,heart_attack
+arm_pain shortness_of_breath sweating nausea,heart_attack
+nausea shortness_of_breath chest_pain,heart_attack
+chest_pain shortness_of_breath nausea arm_pain,heart_attack
+chest_pain shortness_of_breath arm_pain,heart_attack
+arm_pain sweating shortness_of_breath nausea,heart_attack
+nausea shortness_of_breath sweating chest_pain,heart_attack
+sweating nausea arm_pain,heart_attack
+runny_nose itchy_eyes nasal_congestion watery_eyes sneezing,allergy
+itchy_eyes sneezing watery_eyes nasal_congestion runny_nose,allergy
+sneezing itchy_eyes runny_nose watery_eyes nasal_congestion,allergy
+watery_eyes sneezing runny_nose,allergy
+sneezing runny_nose itchy_eyes,allergy
+sneezing runny_nose nasal_congestion,allergy
+nasal_congestion runny_nose itchy_eyes watery_eyes sneezing,allergy
+runny_nose sneezing itchy_eyes nasal_congestion,allergy
+nasal_congestion watery_eyes runny_nose sneezing,allergy
+runny_nose itchy_eyes sneezing nasal_congestion,allergy
+sneezing watery_eyes itchy_eyes nasal_congestion runny_nose,allergy
+nasal_congestion watery_eyes runny_nose sneezing,allergy
+runny_nose watery_eyes sneezing,allergy
+runny_nose itchy_eyes watery_eyes nasal_congestion sneezing,allergy
+itchy_eyes watery_eyes nasal_congestion sneezing runny_nose,allergy
+watery_eyes itchy_eyes sneezing nasal_congestion runny_nose,allergy
+nasal_congestion watery_eyes itchy_eyes,allergy
+runny_nose sneezing nasal_congestion,allergy
+itchy_eyes nasal_congestion sneezing runny_nose,allergy
+sneezing runny_nose watery_eyes,allergy
+nausea headache aura,migraine
+sensitivity_to_light nausea headache aura,migraine
+aura sensitivity_to_light nausea headache dizziness,migraine
+headache aura dizziness sensitivity_to_light nausea,migraine
+nausea headache aura,migraine
+dizziness headache sensitivity_to_light aura nausea,migraine
+sensitivity_to_light headache nausea aura dizziness,migraine
+dizziness aura headache sensitivity_to_light nausea,migraine
+sensitivity_to_light aura headache dizziness,migraine
+headache nausea dizziness,migraine
+nausea dizziness sensitivity_to_light aura headache,migraine
+sensitivity_to_light headache nausea dizziness,migraine
+aura sensitivity_to_light dizziness headache nausea,migraine
+sensitivity_to_light nausea dizziness aura headache,migraine
+headache dizziness nausea,migraine
+nausea headache aura dizziness,migraine
+sensitivity_to_light dizziness aura nausea,migraine
+sensitivity_to_light headache dizziness,migraine
+dizziness headache nausea aura,migraine
+nausea dizziness headache,migraine
+wheezing shortness_of_breath chest_tightness,asthma
+shortness_of_breath wheezing coughing chest_tightness,asthma
+shortness_of_breath chest_tightness coughing,asthma
+shortness_of_breath chest_tightness wheezing coughing,asthma
+coughing shortness_of_breath wheezing,asthma
+chest_tightness wheezing coughing shortness_of_breath,asthma
+chest_tightness coughing wheezing shortness_of_breath,asthma
+wheezing shortness_of_breath coughing chest_tightness,asthma
+shortness_of_breath wheezing chest_tightness,asthma
+coughing wheezing shortness_of_breath chest_tightness,asthma
+coughing wheezing shortness_of_breath,asthma
+coughing shortness_of_breath wheezing chest_tightness,asthma
+wheezing chest_tightness coughing shortness_of_breath,asthma
+chest_tightness wheezing shortness_of_breath coughing,asthma
+chest_tightness wheezing shortness_of_breath,asthma
+chest_tightness shortness_of_breath coughing wheezing,asthma
+wheezing chest_tightness coughing shortness_of_breath,asthma
+chest_tightness shortness_of_breath coughing wheezing,asthma
+shortness_of_breath coughing chest_tightness wheezing,asthma
+wheezing chest_tightness shortness_of_breath coughing,asthma
+pale_skin dizziness shortness_of_breath fatigue,anemia
+weakness fatigue dizziness shortness_of_breath,anemia
+fatigue shortness_of_breath weakness pale_skin,anemia
+fatigue shortness_of_breath dizziness pale_skin weakness,anemia
+shortness_of_breath weakness pale_skin,anemia
+weakness pale_skin fatigue,anemia
+dizziness fatigue pale_skin shortness_of_breath,anemia
+dizziness pale_skin shortness_of_breath weakness,anemia
+weakness dizziness pale_skin shortness_of_breath,anemia
+pale_skin fatigue weakness,anemia
+fatigue shortness_of_breath dizziness,anemia
+shortness_of_breath fatigue weakness,anemia
+weakness fatigue shortness_of_breath dizziness pale_skin,anemia
+dizziness fatigue shortness_of_breath,anemia
+dizziness weakness pale_skin,anemia
+dizziness pale_skin shortness_of_breath weakness fatigue,anemia
+weakness shortness_of_breath dizziness,anemia
+pale_skin weakness shortness_of_breath,anemia
+shortness_of_breath pale_skin fatigue dizziness weakness,anemia
+shortness_of_breath weakness fatigue pale_skin,anemia
+sweating restlessness insomnia,anxiety_disorder
+anxiety restlessness panic sweating,anxiety_disorder
+anxiety panic insomnia sweating restlessness,anxiety_disorder
+restlessness sweating insomnia panic anxiety,anxiety_disorder
+insomnia anxiety restlessness,anxiety_disorder
+sweating restlessness panic anxiety,anxiety_disorder
+restlessness panic anxiety insomnia,anxiety_disorder
+anxiety insomnia sweating restlessness panic,anxiety_disorder
+insomnia restlessness sweating anxiety,anxiety_disorder
+panic restlessness anxiety sweating insomnia,anxiety_disorder
+sweating anxiety restlessness,anxiety_disorder
+anxiety panic insomnia,anxiety_disorder
+insomnia sweating restlessness panic,anxiety_disorder
+sweating restlessness anxiety panic,anxiety_disorder
+restlessness sweating anxiety panic insomnia,anxiety_disorder
+panic sweating restlessness anxiety insomnia,anxiety_disorder
+anxiety restlessness panic,anxiety_disorder
+insomnia anxiety sweating panic restlessness,anxiety_disorder
+panic anxiety insomnia sweating,anxiety_disorder
+panic sweating anxiety,anxiety_disorder
+phlegm chest_discomfort fever cough sore_throat,bronchitis
+phlegm cough fever,bronchitis
+cough chest_discomfort phlegm sore_throat,bronchitis
+sore_throat fever chest_discomfort phlegm,bronchitis
+cough chest_discomfort sore_throat phlegm,bronchitis
+fever sore_throat cough,bronchitis
+phlegm fever chest_discomfort,bronchitis
+chest_discomfort phlegm fever sore_throat,bronchitis
+sore_throat cough fever,bronchitis
+chest_discomfort sore_throat fever phlegm,bronchitis
+sore_throat phlegm cough,bronchitis
+cough sore_throat phlegm chest_discomfort fever,bronchitis
+phlegm chest_discomfort cough fever,bronchitis
+fever sore_throat cough chest_discomfort phlegm,bronchitis
+fever phlegm chest_discomfort,bronchitis
+phlegm chest_discomfort sore_throat,bronchitis
+sore_throat phlegm cough fever chest_discomfort,bronchitis
+fever phlegm cough chest_discomfort sore_throat,bronchitis
+cough sore_throat fever,bronchitis
+chest_discomfort sore_throat cough,bronchitis
+weight_gain cold_intolerance dry_skin constipation fatigue,hypothyroidism
+constipation weight_gain cold_intolerance,hypothyroidism
+weight_gain fatigue constipation,hypothyroidism
+fatigue weight_gain dry_skin cold_intolerance,hypothyroidism
+fatigue weight_gain constipation dry_skin cold_intolerance,hypothyroidism
+cold_intolerance weight_gain constipation dry_skin,hypothyroidism
+constipation weight_gain cold_intolerance fatigue,hypothyroidism
+constipation fatigue weight_gain cold_intolerance dry_skin,hypothyroidism
+weight_gain constipation dry_skin cold_intolerance fatigue,hypothyroidism
+weight_gain constipation fatigue cold_intolerance dry_skin,hypothyroidism
+weight_gain cold_intolerance dry_skin constipation,hypothyroidism
+fatigue constipation dry_skin,hypothyroidism
+dry_skin cold_intolerance fatigue weight_gain constipation,hypothyroidism
+dry_skin constipation cold_intolerance,hypothyroidism
+fatigue constipation dry_skin,hypothyroidism
+constipation fatigue dry_skin weight_gain,hypothyroidism
+constipation dry_skin weight_gain cold_intolerance fatigue,hypothyroidism
+weight_gain cold_intolerance constipation,hypothyroidism
+cold_intolerance fatigue weight_gain constipation dry_skin,hypothyroidism
+constipation weight_gain fatigue,hypothyroidism
+anxiety heat_intolerance weight_loss tremors,hyperthyroidism
+sweating weight_loss anxiety tremors heat_intolerance,hyperthyroidism
+tremors sweating weight_loss anxiety,hyperthyroidism
+heat_intolerance anxiety sweating,hyperthyroidism
+heat_intolerance sweating tremors anxiety weight_loss,hyperthyroidism
+sweating weight_loss tremors anxiety heat_intolerance,hyperthyroidism
+heat_intolerance weight_loss sweating tremors,hyperthyroidism
+sweating tremors heat_intolerance anxiety weight_loss,hyperthyroidism
+heat_intolerance sweating anxiety weight_loss,hyperthyroidism
+tremors weight_loss anxiety heat_intolerance,hyperthyroidism
+weight_loss sweating heat_intolerance anxiety,hyperthyroidism
+anxiety heat_intolerance tremors sweating weight_loss,hyperthyroidism
+tremors sweating heat_intolerance weight_loss,hyperthyroidism
+heat_intolerance weight_loss sweating,hyperthyroidism
+sweating tremors weight_loss,hyperthyroidism
+tremors heat_intolerance sweating anxiety,hyperthyroidism
+tremors anxiety heat_intolerance weight_loss,hyperthyroidism
+heat_intolerance weight_loss anxiety sweating,hyperthyroidism
+anxiety weight_loss tremors heat_intolerance sweating,hyperthyroidism
+anxiety sweating weight_loss heat_intolerance tremors,hyperthyroidism
+postnasal_drip facial_pain nasal_congestion,sinusitis
+facial_pain pressure postnasal_drip nasal_congestion,sinusitis
+pressure facial_pain postnasal_drip,sinusitis
+facial_pain nasal_congestion pressure postnasal_drip headache,sinusitis
+postnasal_drip facial_pain pressure,sinusitis
+pressure headache postnasal_drip nasal_congestion,sinusitis
+postnasal_drip pressure nasal_congestion,sinusitis
+nasal_congestion facial_pain headache,sinusitis
+pressure postnasal_drip nasal_congestion headache,sinusitis
+facial_pain pressure postnasal_drip nasal_congestion headache,sinusitis
+nasal_congestion pressure facial_pain headache,sinusitis
+facial_pain nasal_congestion headache,sinusitis
+facial_pain pressure nasal_congestion,sinusitis
+nasal_congestion headache postnasal_drip pressure,sinusitis
+pressure nasal_congestion facial_pain headache,sinusitis
+pressure postnasal_drip facial_pain nasal_congestion headache,sinusitis
+nasal_congestion headache postnasal_drip pressure,sinusitis
+headache facial_pain pressure,sinusitis
+postnasal_drip headache pressure,sinusitis
+postnasal_drip pressure facial_pain,sinusitis
+burning_urination fever cloudy_urine,urinary_tract_infection
+cloudy_urine back_pain burning_urination fever frequent_urination,urinary_tract_infection
+burning_urination frequent_urination cloudy_urine,urinary_tract_infection
+burning_urination fever cloudy_urine back_pain frequent_urination,urinary_tract_infection
+fever burning_urination frequent_urination,urinary_tract_infection
+fever cloudy_urine burning_urination,urinary_tract_infection
+burning_urination cloudy_urine back_pain fever frequent_urination,urinary_tract_infection
+burning_urination back_pain fever,urinary_tract_infection
+fever frequent_urination back_pain,urinary_tract_infection
+back_pain frequent_urination fever cloudy_urine,urinary_tract_infection
+cloudy_urine burning_urination back_pain fever,urinary_tract_infection
+cloudy_urine fever frequent_urination,urinary_tract_infection
+fever back_pain burning_urination cloudy_urine,urinary_tract_infection
+frequent_urination cloudy_urine fever,urinary_tract_infection
+back_pain cloudy_urine burning_urination,urinary_tract_infection
+fever frequent_urination burning_urination cloudy_urine back_pain,urinary_tract_infection
+back_pain fever cloudy_urine,urinary_tract_infection
+fever cloudy_urine back_pain frequent_urination,urinary_tract_infection
+fever frequent_urination burning_urination cloudy_urine back_pain,urinary_tract_infection
+cloudy_urine burning_urination back_pain frequent_urination fever,urinary_tract_infection
+neck_stiffness confusion vomiting sensitivity_to_light,meningitis
+confusion vomiting high_fever neck_stiffness sensitivity_to_light,meningitis
+sensitivity_to_light confusion high_fever vomiting neck_stiffness,meningitis
+neck_stiffness vomiting confusion high_fever sensitivity_to_light,meningitis
+sensitivity_to_light vomiting neck_stiffness high_fever confusion,meningitis
+sensitivity_to_light high_fever confusion,meningitis
+neck_stiffness sensitivity_to_light vomiting high_fever confusion,meningitis
+sensitivity_to_light neck_stiffness vomiting high_fever,meningitis
+confusion sensitivity_to_light neck_stiffness high_fever,meningitis
+vomiting neck_stiffness high_fever sensitivity_to_light confusion,meningitis
+sensitivity_to_light high_fever neck_stiffness vomiting,meningitis
+confusion neck_stiffness vomiting high_fever,meningitis
+neck_stiffness sensitivity_to_light vomiting confusion high_fever,meningitis
+confusion neck_stiffness vomiting sensitivity_to_light,meningitis
+neck_stiffness high_fever confusion,meningitis
+vomiting neck_stiffness confusion high_fever sensitivity_to_light,meningitis
+sensitivity_to_light vomiting high_fever,meningitis
+sensitivity_to_light confusion vomiting neck_stiffness,meningitis
+sensitivity_to_light confusion vomiting high_fever neck_stiffness,meningitis
+high_fever confusion neck_stiffness,meningitis
