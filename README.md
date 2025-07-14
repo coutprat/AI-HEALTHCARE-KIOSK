@@ -57,10 +57,10 @@ An intelligent healthcare kiosk system that combines artificial intelligence, fa
 ### Installation
 
 # 1. Clone the Repository
-git clone https://github.com/yourusername/healthcare-kiosk.git
+git clone https://github.com/coutprat/AI-HEALTHCARE-KIOSK.git
 cd healthcare-kiosk
 
-# 2. Create Virtual Environment
+# 2. Create Virtual Environment (OpenVINO optimized)
 python -m venv openvino_env
 openvino_env\Scripts\activate  # Windows
 
@@ -72,6 +72,8 @@ mkdir frontend/encodings
 mkdir known_faces
 echo "" > backend/__init__.py
 echo "" > backend/database/__init__.py
+**Note**: This project uses a virtual environment named `openvino_env` to support OpenVINO-accelerated AI processing for optimal performance.
+
 Running the Application
 bash
 Copy
