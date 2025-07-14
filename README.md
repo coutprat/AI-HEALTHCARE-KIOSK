@@ -72,7 +72,8 @@ mkdir frontend/encodings
 mkdir known_faces
 echo "" > backend/__init__.py
 echo "" > backend/database/__init__.py
-**Note**: This project uses a virtual environment named `openvino_env` to support OpenVINO-accelerated AI processing for optimal performance.
+
+Note: This project uses a virtual environment named `openvino_env` to support OpenVINO-accelerated AI processing for optimal performance.
 
 Running the Application
 bash
